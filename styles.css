@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .menu-container {
+   
+    display: flex;
+    justify-content: space-around;
+    
+    width: 100%;
+    background: #D6E9FE;
+    color: #fff;
+    background-color: blue;  /* Blue */
+    padding: 30px 0;
+   
+  }
+  
+  .menu {
+   
+    width: 1s00px;
+    display: flex;
+  justify-content: space-between; 
+  }
+
+  .header-container {
+    color: rgb(1, 6, 12);
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+  }
+  .login
+  {
+    width: 60px;
+    height:20px;
+    background-color: lightblue;
+  }
+  
+  .header {
+    width: 900px;
+    height: 500px;
+    display: flex;
+    justify-content: flex-end;
+  }
+ .forms
+ {
+  
+    display: flex;
+    justify-content: space-between;
+    
+ }
+ .a
+ {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    
+ }
+
+ .a2
+ {
+    width: 500px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    
+ }
+ .a3
+ { 
+     width: 40px;
+    height: 40px;
+	padding-right:200px;
+	display: flex;
+    justify-content: center;
+	  
+	 
+ }
+ .radiob
+ {
+    display: flex;
+    justify-content:space-around;
+ }
+ .Submit
+ {
+     width:100px;
+     height:40px;
+     background-color:green ;
+   
+     
+ }
+ .pass
+ {
+	 padding-left:30px;
+	 padding-right:30px;
+ }
+ 
